@@ -1,6 +1,6 @@
 package solutions
 
-// Solution001 return the soltion of problem 001 from Project Euler
+// Solution001 return the solution of problem 001 from Project Euler
 func Solution001(limit int) int {
 	sum := 0
 

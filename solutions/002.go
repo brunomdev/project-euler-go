@@ -9,7 +9,7 @@ func fibonacci() func() int {
 	}
 }
 
-// Solution002 return the soltion of problem 002 from Project Euler
+// Solution002 return the solution of problem 002 from Project Euler
 func Solution002(limit int) int {
 	sum := 0
 
