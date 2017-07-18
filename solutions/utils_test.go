@@ -1,6 +1,6 @@
 package solutions
 
 type testData struct {
-	limit    int
+	in       int
 	expected int
 }

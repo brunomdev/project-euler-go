@@ -8,8 +8,8 @@ var testsSolution002 = []testData{
 
 func TestSolution002(t *testing.T) {
 	for _, test := range testsSolution002 {
-		if sum := Solution002(test.limit); sum != test.expected {
-			t.Errorf("Solution002(%d) = %d, should be %d\n", test.limit, sum, test.expected)
+		if sum := Solution002(test.in); sum != test.expected {
+			t.Errorf("Solution002(%d) = %d, should be %d\n", test.in, sum, test.expected)
 		}
 	}
 }
