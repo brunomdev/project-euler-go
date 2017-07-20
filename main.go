@@ -9,4 +9,5 @@ func main() {
 	fmt.Printf("Solution 002 = %d\n", s.Solution002(4000000))
 	fmt.Printf("Solution 003 = %d\n", s.Solution003(600851475143))
 	fmt.Printf("Solution 004 = %d\n", s.Solution004(999))
+	fmt.Printf("Solution 005 = %d\n", s.Solution005(20))
 }
