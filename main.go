@@ -11,4 +11,5 @@ func main() {
 	fmt.Printf("Solution 004 = %d\n", s.Solution004(999))
 	fmt.Printf("Solution 005 = %d\n", s.Solution005(20))
 	fmt.Printf("Solution 006 = %d\n", s.Solution006(100))
+	fmt.Printf("Solution 007 = %d\n", s.Solution007(10001))
 }
